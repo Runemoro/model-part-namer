@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "modelpartnamer",
+  "version": "1.0",
+  "name": "Model Part Namer",
+  "description": "",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "requires": {
+    "fabricloader": ">=0.4.0"
+  },
+  "mixins": [
+    "modelpartnamer.mixins.json"
+  ]
+}

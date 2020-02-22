@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea
+out
+
+# Gradle
+.gradle
+build
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Other
+run
